@@ -15,9 +15,7 @@ window.fixytm = {
             "project_id": "fixytm",
             "auth_uri": "https://accounts.google.com/o/oauth2/auth",
             "token_uri": "https://oauth2.googleapis.com/token",
-            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-            "client_secret": "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",
-            "javascript_origins": ["https://localhost"]
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs"
         },
         'authorised': false
     }
